@@ -35,7 +35,7 @@ C:
 Assembly:
 
     cd Assembly
-    ./Assembly
+    ./collatz
 
 ## Performance Observations
 Note: The C implementation was compiled with the GNU GCC Compiler with the [-O3] optimization flag.
